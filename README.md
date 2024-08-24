@@ -1,4 +1,4 @@
-<!--     範例       -->
+<!--     C:\2302\github\Docs_2D       -->
 
 ### 
 <!--                 
@@ -12,17 +12,17 @@
 -->  
 ![](Images/11-10-02.png)  
 
+##  
 
-
-##
-## 
+##  
 
 # 矩 陣 計 算 的 運 算 子 共 計 有 12 個 ：  
 
 ---  
 
-### 第一個是加 [+] 
-```CSharp 
+### 第一個是加 【+】 
+
+```CSharp  
 using System;
 using Matrix_0; 
 
@@ -66,10 +66,11 @@ B 矩陣 ：
 */
 
 ```
-### 第二個是減 [-] 
+### 第二個是減 【-】 
 
-### 第三個是乘 [*] 
-```CSharp 
+### 第三個是乘 【*】 
+
+```CSharp  
 using System;
 using Matrix_0; 
 
@@ -110,8 +111,9 @@ A0 * A1 =
 */
 ```
 
-### 第四個是除 [/] 
-```CSharp 
+### 第四個是除 【/】  
+
+```CSharp  
 using System;
 using Matrix_0; 
 
@@ -152,8 +154,9 @@ A0 / A1 =
 */
 ```
 
-### 第五個是是否相等 [==] 
-```CSharp 
+### 第五個是是否相等 【==】 
+
+```CSharp  
 using System;
 using Matrix_0; 
 
@@ -198,10 +201,11 @@ A1 矩陣 ：
 
 ```
 
-### 第六個是否不相等 [！=] 
+### 第六個是否不相等 【！=】 
 
-### 第七個是矩陣水平合併 [&] 
-```C# 
+### 第七個是矩陣水平合併 【&】 
+
+```C#  
 using System;
 using Matrix_0; 
 
@@ -241,8 +245,9 @@ B 矩陣 ：
 
 ```
 
-### 第八個是矩陣垂直合併 [|] 
-```C#
+### 第八個是矩陣垂直合併 【|】 
+
+```C#  
 using System;
 using Matrix_0; 
 
@@ -283,8 +288,9 @@ B 矩陣 ：
 */
 
 ```
-### 第九個是向量内積 [^]  
-```CSharp 
+### 第九個是向量内積 【^】  
+
+```CSharp  
 using System;
 using Matrix_0; 
 
@@ -327,7 +333,8 @@ B 矩陣 ：
 
 ---  
 
-### 第十個是逆矩陣 [～] ， 為 Unit Operator
+### 第十個是逆矩陣 【～】 ， 為 Unit Operator  
+
 ```CSharp
 using System;
 using Matrix_0; 
@@ -385,9 +392,11 @@ A 矩陣 ：
 請按任意鍵繼續 . . .
 */
 
-```
-### 第十一個是轉置 [！] ， 為 Unit Operator
-```CSharp 
+```  
+
+### 第十一個是轉置 【！】 ， 為 Unit Operator  
+
+```CSharp  
 using System;
 using Matrix_0; 
 
@@ -425,9 +434,11 @@ A 矩陣 ：
 請按任意鍵繼續 . . .
 */
 
-```
-### 第十二個是單位向量 [+] ， 為 Unit Operator  
-```CSharp 
+```  
+
+### 第十二個是單位向量 【+】 ， 為 Unit Operator  
+
+```CSharp  
 using System;
 using Matrix_0; 
 
@@ -464,12 +475,13 @@ A 矩陣 ：
 請按任意鍵繼續 . . .
 */
 
-```
-#
+```  
 
-# [精 銳 科 技【矩陣計算求解器開發】](https://www.github.com/myyeh2/App_CSharp) 
+#  
 
-######
+# [精 銳 科 技【矩陣計算求解器開發】](https://www.github.com/myyeh2/App_CSharp)  
+
+######  
 
 ![](Images/name_card.png)  
 
